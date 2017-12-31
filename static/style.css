@@ -1,0 +1,82 @@
+body {
+background-color: #172C45;
+}
+h2 {
+  font-weight: bolder;
+}
+.login-form-position {
+   padding: 60px 0;
+}
+.signup-form-position {
+   padding: 10px 0;
+}
+.user-position {
+  margin-top : 6em;
+  font-family : bold;
+  font-size : 30px;
+  color : #c9c9c9;
+}
+.name {
+  font-family: bolder;
+  color:crimson;
+}
+.login-fonts
+{
+  background-color: #428bca;
+}
+.signup-fonts
+{
+  background-color: #5cb85c;
+}
+.login-form-control
+{
+  border: 1px solid #5bc0de;
+}
+.signup-form-control
+{
+  border: 1px solid #5cb85c;
+}
+.fa-envelope-o {
+  color : #fff;
+}
+.fa-key {
+  color : #fff;
+}
+.fa-user {
+  color : #fff;
+}
+.login-error {
+  color : red;
+  font-size: 15px;
+  font-weight: bold;
+}
+.signup-error {
+  color : red;
+  font-size: 15px;
+  font-weight: bold;
+
+}
+::-webkit-input-placeholder {
+   text-align: center;
+}
+::-moz-placeholder {
+   text-align: center;
+}
+::-ms-input-placeholder {
+   text-align: center;
+}
+.more-text {
+  font-size : 22px;
+  font-weight: bold;
+}
+.submit-text {
+  font-weight: bolder;
+}
+.field-text {
+  color : #c9c9c9;
+}
+.message {
+  color : green;
+  font-size: 18px;
+  font-weight: bolder;
+}
